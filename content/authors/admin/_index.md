@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi :wave:! I am a computer engineering Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the Probabilistic and Understandable Machine Learning Lab lead by [Dr. David Inouye](https://www.davidinouye.com).
+Hi :wave:! I am a computer engineering Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the Probabilistic and Understandable Machine Learning Lab led by [Dr. David Inouye](https://www.davidinouye.com).
 My main research interest lies at gaining **better <u>understandings</u> of data**.
 I am working on advancing this from both a human perspective, via providing users with more interpretable representations of data (such as our method for [explaining differences between distributions](https://www.seankulinski.com/publication/towards-explaining-image-based-shifts/) or our paper on [localizing distribution shifts to problematic features](https://www.seankulinski.com/publication/feature-shift-detection/)), as well as from a machine intelligence perspective, via building models which better learn generalizable information (such as our ongoing work on Causal Discovery via Distributional Alignment or our concurrent conceptual mining work).
 I also co-run a tutorial-style [Machine Learning reading group at Purdue](https://engineering.purdue.edu/ChanGroup/MLreading.html) which covers various ML topics such as Multi-Modal Learning and CausalML.
