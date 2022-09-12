@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
+# Should this widget be displayed?
+active: false
+
 title: 'Recent & Upcoming Talks'
 subtitle:
 

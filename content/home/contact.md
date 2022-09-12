@@ -15,42 +15,44 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#   # Email form provider
+#   form:
+#     provider: netlify
+#     formspree:
+#       id:
+#     netlify:
+#       # Enable CAPTCHA challenge to reduce spam?
+#       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: skulinsk@purdue.edu
+#   phone: 888 888 88 88
+  contact_links:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/SeanKski
+    name: GitHub
+
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/seankulinski/
+    name: LinkedIn
+
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: San Fransisco
+    city: Bay Area
     region: CA
-    postcode: '94305'
+    postcode: 
     country: United States
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+#   coordinates:
+#     latitude: '37.4275'
+#     longitude: '-122.1697'
+#   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#   office_hours:
+    # - 'Monday 10:00 to 13:00'
+    # - 'Wednesday 09:00 to 10:00'
+#   appointment_url: 'https://calendly.com'
 
 design:
   columns: '2'

@@ -11,7 +11,7 @@ role: Ph.d. Student Studying Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Purdue University
-  url: "https://engineering.purdue.edu/ECE"
+  - url: "https://engineering.purdue.edu/ECE"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest lies a gaining better understandings of data from both a human perspective (via interpretable data representations) and a machine intelligence perspective (via learning generalizable representations). Namely, this means the problems I tend to work with are domain adaptation, generalization, and shift understanding; knowledge representation; CausalML; and all that comes with it.
@@ -54,9 +54,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/CV.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
