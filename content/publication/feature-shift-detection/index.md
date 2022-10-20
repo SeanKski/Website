@@ -9,7 +9,7 @@ authors:
   - Saurabh Bagchi
   - David I. Inouye
 
-date: '2013-07-01T00:00:00Z'
+date: '2020-10-06T17:47:22-04:00'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -52,6 +52,7 @@ url_video: 'https://slideslive.com/38937638/feature-shift-detection-localizing-w
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
+  placement: 1
   caption: ''
   focal_point: 'Top'
   preview_only: false

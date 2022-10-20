@@ -24,7 +24,7 @@ publication_short: "*CVPR*"
 abstract: "Distribution shift can have fundamental consequences such as signaling a change in the operating environment or significantly reducing the accuracy of downstream models. Thus, understanding such distribution shifts is critical for examining and hopefully mitigating the effect of such a shift. Most prior work has focused on either natively handling distribution shift (e.g., Domain Generalization) or merely detecting a shift while assuming any detected shift can be understood and handled appropriately by a human operator. For the latter, we hope to aid in these manual mitigation tasks by explaining the distribution shift to an operator. To this end, we suggest two methods: providing a set of interpretable mappings from the original distribution to the shifted one or providing a set of distributional counterfactual examples. We provide preliminary experiments on these two methods, and discuss important concepts and challenges for moving towards a better understanding of image-based distribution shifts."
 
 # Summary. An optional shortened abstract.
-summary: "We introduce a novel framework for explaining image-based distribution shifts using interpretable transportation maps between a source and target distribution."
+summary: "Focusing on distributions shifts pertaining to images, we use interpretable transport maps between the latent image spaces of a  source and a target distribution to explain how to align the source to the target distribution."
 
 tags: [Machine Learning, Distribution Shift, Explainable AI]
 categories: []

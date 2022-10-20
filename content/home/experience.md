@@ -18,7 +18,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+design:
+  columns: '1'
+  
 experience:
   - title: ML Research Assistant
     company: Purdue University, under advisory of Dr. David Inouye
