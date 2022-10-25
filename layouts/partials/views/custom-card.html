@@ -45,6 +45,7 @@
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
   {{ $image := .Fit (printf "%dx%d" .Height .Width) }}
+  <!-- NOTE TO FUTURE SELF: this could lead you put a grossly large image if you have very large/small aspect ratio -->
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
     <div class="img-hover-zoom">
       <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
