@@ -1,4 +1,20 @@
 .article-banner-card {
     width: 100%;
     height: auto;
+    max-height: 500px;
+  }
+
+/* Hide overflowing of zoomed child img element */
+.custom-img-hover-zoom {
+    overflow: hidden;
+  }
+  
+  /* Smooth transition for image zoom on hover */
+  .custom-img-hover-zoom img {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Transform the image scale when container gets hovered */
+  .custom-img-hover-zoom:hover img {
+    transform: scale(1.01);
   }
