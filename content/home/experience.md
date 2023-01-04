@@ -35,7 +35,7 @@ experience:
       - Constructed an interpretable benchmark Sensor Network dataset based on StarCraft II replays yielding 1.8 million game-state windows with multiple data representations such as ones that can be used as a drop-in replacement for CIFAR10 and MNIST.
       - Created a light-weight machine learning algorithm which uses deep density models to detect shifts in distributions as well as determine which feature(s) are causing the shift, allowing for online monitoring with little additional overhead [[publication](https://www.seankulinski.com/publication/feature-shift-detection/)] [[code](https://github.com/inouye-lab/feature-shift)].
 
-  - title: Data Scientist
+  - title: Data Scientist, Intern
     company: Microsoft
     company_url: 'https://www.microsoft.com/en-us/research/group/msai/'
     company_logo: microsoft
@@ -48,7 +48,7 @@ experience:
         - Identified and explored knowledge gap between web search methods (e.g., Google search or Bing search) and enterprise search methods (e.g., Outlook search or Teams search).  
         - Created training pipeline which adapts open web search data to better fit enterprise search training data.  
 
-  - title: Machine Learning Scientist
+  - title: ML Scientist
     company: AbbVie
     company_url: https://www.abbvie.com/our-science.html
     company_logo: abbvie
@@ -60,7 +60,7 @@ experience:
         - Worked with a team to generate additional cancer related statistics to aid doctors in determining treatment modality.  
         - Developed robust high performance pipeline for continuous analysis of whole slide images for deployment to consumers.
 
-  - title: Machine Learning Researcher
+  - title: ML Research, Intern
     company: Lawrence Livermore National Laboratory
     company_url: https://computing.llnl.gov/casc/machine-intelligence-group
     company_logo: llnl
@@ -72,7 +72,7 @@ experience:
         - Built computer vision models to conquer some of these issues, such as being robust to spatialdistribution shifts. The models were trained using Livermore’s Sierra HPC system.
         - Used Natural Language Processing techniques on parsed Material Science publications to createan interpretable deep model to aid in the synthesis of new nanostructures and nanomaterials.
 
-  - title: Software and Embedded Electrical Engineer
+  - title: Software Engineer
     company: Indiana Microelectronics
     company_url: https://www.indianamicro.com/
     company_logo: indianamicro
