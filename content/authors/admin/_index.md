@@ -69,7 +69,9 @@ Hi :wave:! I am a computer engineering Ph.D. student at [Purdue University](http
 My main research interest lies at gaining **better <u>understandings</u> of data**.
 I am working on advancing this from both a human perspective, via providing users with more interpretable representations of data (such as our method for [explaining differences between distributions](https://www.seankulinski.com/publication/towards-explaining-image-based-shifts/) or our paper on [localizing distribution shifts to problematic features](https://www.seankulinski.com/publication/feature-shift-detection/)), as well as from a machine intelligence perspective, via building models which better learn generalizable information (such as our ongoing work on Causal Discovery via Distributional Alignment or our concurrent conceptual mining work).
 I also co-run a tutorial-style [Machine Learning reading group at Purdue](https://engineering.purdue.edu/ChanGroup/MLreading.html) which covers various ML topics such as Multi-Modal Learning and CausalML.
-Additionally I have worked [various ML Scientist roles](#experience) for both production-level and research-level industry impacts.
+
+I have worked [various ML research roles](#experience) for both production-level and research-level industry impacts.
+This includes working with [Bhavya Kailkhura](https://scholar.google.com/citations?user=SQpJmOgAAAAJ&hl=en) from Lawrence Livermore National Lab, [Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en) from the Army Research Lab, and this summer I will be working with [Ankur Mallick](https://scholar.google.co.in/citations?user=6SYGK8cAAAAJ&hl=en) and [Kevin Hsieh](https://scholar.google.com/citations?user=e7rXLKAAAAAJ&hl=en) from Microsoft Research.
 
 In addition to my research, some things I enjoy (in no particular order) are:
  hiking/backpacking 🥾, mountain biking 🚵, spending time with friends and family 🗣️, having spirited debates on frivolous topics 💭, and figuring out how things work 🛠️.
