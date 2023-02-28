@@ -31,9 +31,9 @@ experience:
     date_end: ''
     description: |2-
       - Creating approach for casual discovery via aligning the latent distributions of data gathered from heterogeneous domains (e.g., tissue samples from different hospitals).
-      - Derived method for interpretable optimal transport for the purposes of explaining image-based distribution shifts to a human operator which can be used for system monitoring or knowledge discovery [[publication](https://www.seankulinski.com/publication/towards-explaining-image-based-shifts/)].
-      - Constructed an interpretable benchmark Sensor Network dataset based on StarCraft II replays yielding 1.8 million game-state windows with multiple data representations such as ones that can be used as a drop-in replacement for CIFAR10 and MNIST.
-      - Created a light-weight machine learning algorithm which uses deep density models to detect shifts in distributions as well as determine which feature(s) are causing the shift, allowing for online monitoring with little additional overhead [[publication](https://www.seankulinski.com/publication/feature-shift-detection/)] [[code](https://github.com/inouye-lab/feature-shift)].
+      - Derived method for interpretable optimal transport to explain image-based distribution shifts to a human operator for monitoring ML systems or knowledge discovery [[CVPR publication](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Kulinski_Towards_Explaining_Image-Based_Distribution_Shifts_CVPRW_2022_paper.pdf)] [[code](https://github.com/inouye-lab/explaining-distribution-shifts)].
+      - Constructed an interpretable multi-agent reasoning benchmark dataset based on StarCraft II replays yielding 1.8 million game-state windows with multiple data representations such as ones that can be used as a drop-in replacement for CIFAR10 and MNIST. [*accepted to CVPR23*, code and publication link will be released soon]
+      - Created a light-weight machine learning algorithm which uses deep density models to detect shifts in distributions as well as determine which feature(s) are causing the shift, allowing for online monitoring with little additional overhead [[NeurIPS publication](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf)] [[code](https://github.com/inouye-lab/feature-shift)].
 
   - title: Data Scientist, Intern
     company: Microsoft
