@@ -28,10 +28,10 @@ education:
   courses:
   - course: PhD in Computer Engineering
     institution: Purdue University
-    year: 2019-2023
+    year: 2019 - Dec 2023
   - course: BS in Electrical Engineering
     institution: Purdue University
-    year: 2019
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -5,7 +5,7 @@ title: "Towards Explaining Distribution Shifts"
 authors: 
   - admin
   - David I. Inouye]
-date: '2022-10-19T17:47:22-04:00'
+date: '2023-07-19T17:47:22-04:00'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,13 +15,13 @@ publishDate: '2022-10-10T17:47:22-04:00'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ArXiv*"
-publication_short: "*ArXiv*"
+publication: "*International Conference on Machine Learning*"
+publication_short: "*ICML*"
 
-abstract: "A distribution shift can have fundamental consequences such as signaling a change in the operating environment or significantly reducing the accuracy of downstream models. Thus, understanding distribution shifts is critical for examining and hopefully mitigating the effect of such a shift. Most prior work has focused on merely detecting if a shift has occurred and assumes any detected shift can be understood and handled appropriately by a human operator. We hope to aid in these manual mitigation tasks by explaining the distribution shift using interpretable transportation maps from the original distribution to the shifted one. We derive our interpretable mappings from a relaxation of the optimal transport problem, where the candidate mappings are restricted to a set of interpretable mappings. We then use quintessential examples of distribution shift in simulated and real-world cases to showcase how our explanatory mappings provide a better balance between detail and interpretability than the de facto standard mean shift explanation by both visual inspection and our PercentExplained metric."
+abstract: "A distribution shift can have fundamental consequences such as signaling a change in the operating environment or significantly reducing the accuracy of downstream models. Thus, understanding distribution shifts is critical for examining and hopefully mitigating the effect of such a shift. Most prior work has focused on merely detecting if a shift has occurred and assumes any detected shift can be understood and handled appropriately by a human operator. We hope to aid in these manual mitigation tasks by explaining the distribution shift using interpretable transportation maps from the original distribution to the shifted one. We derive our interpretable mappings from a relaxation of the optimal transport problem, where the candidate mappings are restricted to a set of interpretable mappings. We then use a wide array of quintessential examples of distribution shift in real-world tabular, text, and image cases to showcase how our explanatory mappings provide a better balance between detail and interpretability than baseline explanations by both visual inspection and our PercentExplained metric."
 
 # Summary. An optional shortened abstract.
 summary: "We answer the question: ''What is a distribution shift explanation?'' and introduce a novel framework for explaining distribution shifts via transportation maps between a source and target distribution which are either inherently interpretable or interpreted using post-hoc interpretability methods."
