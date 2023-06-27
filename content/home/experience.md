@@ -35,6 +35,19 @@ experience:
       - Constructed an interpretable multi-agent reasoning benchmark dataset based on StarCraft II replays yielding 1.8 million game-state windows with multiple data representations such as ones that can be used as a drop-in replacement for CIFAR10 and MNIST. [*accepted to CVPR23*, code and publication link will be released soon]
       - Created a light-weight machine learning algorithm which uses deep density models to detect shifts in distributions as well as determine which feature(s) are causing the shift, allowing for online monitoring with little additional overhead [[NeurIPS publication](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf)] [[code](https://github.com/inouye-lab/feature-shift)].
 
+  - title: Researcher, Intern
+    company: Microsoft
+    company_url: 'https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?'
+    company_logo: microsoft
+    location: Seattle, WA
+    date_start: '2023-05-31'
+    date_end: '2023-08-31'
+    description: |2-
+        Worked under Ankur Mallick and Kevin Hsieh to develop novel methods for robust ML inference with streaming data.
+        - Creating an efficient model drift mitigation technique for high dimensional streaming data which is compatible with complex realistic shifts such as combinations of covariate drift and concept drift.
+        - Deriving method for predicting real-time model degradation in the presence of delayed ground-truth labels.
+        - Using this predictive power, we can efficiently retrain models to maximize model uptime while balancing retraining cost
+
   - title: Data Scientist, Intern
     company: Microsoft
     company_url: 'https://www.microsoft.com/en-us/research/group/msai/'
