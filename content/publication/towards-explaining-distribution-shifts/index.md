@@ -43,7 +43,7 @@ url_code: 'https://github.com/inouye-lab/explaining-distribution-shifts'
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: publication/towards-explaining-distribution-shifts/towards-explaining-distribution-shifts-slides.pdf
 url_source:
 url_video:
 
