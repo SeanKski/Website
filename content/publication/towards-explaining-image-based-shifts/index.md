@@ -4,7 +4,7 @@
 title: "Towards Explaining Image-Based Distribution Shifts"
 authors: 
   - admin
-  - David I. Inouye]
+  - David I. Inouye
 date: '2022-04-22T17:47:22-04:00'
 doi: ""
 

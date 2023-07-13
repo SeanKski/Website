@@ -4,7 +4,7 @@
 title: "Towards Explaining Distribution Shifts"
 authors: 
   - admin
-  - David I. Inouye]
+  - David I. Inouye
 date: '2023-07-19T17:47:22-04:00'
 doi: ""
 

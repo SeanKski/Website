@@ -22,7 +22,7 @@ design:
   columns: '1'
   
 experience:
-  - title: ML Research Assistant
+  - title: Research Assistant (ML)
     company: Purdue University, under advisory of Dr. David Inouye
     company_url: 'https://www.davidinouye.com'
     company_logo: purdue
@@ -35,7 +35,7 @@ experience:
       - Constructed an interpretable multi-agent reasoning benchmark dataset based on StarCraft II replays yielding 1.8 million game-state windows with multiple data representations such as ones that can be used as a drop-in replacement for CIFAR10 and MNIST. [*accepted to CVPR23*, code and publication link will be released soon]
       - Created a light-weight machine learning algorithm which uses deep density models to detect shifts in distributions as well as determine which feature(s) are causing the shift, allowing for online monitoring with little additional overhead [[NeurIPS publication](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf)] [[code](https://github.com/inouye-lab/feature-shift)].
 
-  - title: Researcher, Intern
+  - title: Researcher (ML), Intern
     company: Microsoft
     company_url: 'https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?'
     company_logo: microsoft
@@ -48,7 +48,7 @@ experience:
         - Deriving method for predicting real-time model degradation in the presence of delayed ground-truth labels.
         - Using this predictive power, we can efficiently retrain models to maximize model uptime while balancing retraining cost
 
-  - title: Data Scientist, Intern
+  - title: Data Scientist (NLP), Intern
     company: Microsoft
     company_url: 'https://www.microsoft.com/en-us/research/group/msai/'
     company_logo: microsoft
@@ -61,7 +61,7 @@ experience:
         - Identified and explored knowledge gap between web search methods (e.g., Google search or Bing search) and enterprise search methods (e.g., Outlook search or Teams search).  
         - Created training pipeline which adapts open web search data to better fit enterprise search training data.  
 
-  - title: ML Scientist
+  - title: ML Scientist (Computer Vision)
     company: AbbVie
     company_url: https://www.abbvie.com/our-science.html
     company_logo: abbvie
@@ -73,7 +73,7 @@ experience:
         - Worked with a team to generate additional cancer related statistics to aid doctors in determining treatment modality.  
         - Developed robust high performance pipeline for continuous analysis of whole slide images for deployment to consumers.
 
-  - title: ML Research, Intern
+  - title: Researcher (Computer Vision, NLP), Intern
     company: Lawrence Livermore National Laboratory
     company_url: https://computing.llnl.gov/casc/machine-intelligence-group
     company_logo: llnl

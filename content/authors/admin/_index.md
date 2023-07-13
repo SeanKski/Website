@@ -19,7 +19,7 @@ bio: My research interest lies a gaining better understandings of data from both
 # Interests to show in About widget
 interests:
   - Domain Generalization
-  - Interpretable Data Representations
+  - Conceptual Data Representations
   - Generative Modeling
   - Machine Intelligence
 
@@ -65,9 +65,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi :wave:! I am a computer engineering Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the Probabilistic and Understandable Machine Learning Lab led by [Dr. David Inouye](https://www.davidinouye.com).
+Hi :wave:! I am a Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the Probabilistic and Understandable Machine Learning Lab led by [Dr. David Inouye](https://www.davidinouye.com).
 My main research interest lies at gaining **robust <u>understandings</u> of data**.
-I am working on advancing this from both a human perspective, via providing users with more interpretable representations of data (such as our method for [explaining differences between distributions](https://www.seankulinski.com/publication/towards-explaining-image-based-shifts/) or our paper on [localizing distribution shifts to problematic features](https://www.seankulinski.com/publication/feature-shift-detection/)), as well as from a machine intelligence perspective, via building models which better learn generalizable information (such as our ongoing work on Causal Discovery via Distributional Alignment or our concurrent conceptual mining work).
+I am working on advancing this from a machine intelligence perspective, via **building models which better learn generalizable information** (such as our work on [learning latent causal models for domain-translation generative models](https://www.seankulinski.com/publication/towards-characterizing-domain-counterfactuals-for-invertible-latent-causal-models/) or our current work on predicting model generalization performance), as well as, from both a human perspective, via **providing users with more interpretable representations of data** (such as our method for [explaining differences between distributions](https://www.seankulinski.com/publication/towards-explaining-image-based-shifts/) or our paper on [localizing distribution shifts to problematic features](https://www.seankulinski.com/publication/feature-shift-detection/)).
 I also co-run a tutorial-style [Machine Learning reading group at Purdue](https://engineering.purdue.edu/ChanGroup/MLreading.html) which covers various ML topics such as Multi-Modal Learning and CausalML.
 
 I have worked [various ML research roles](#experience) for both production-level and research-level industry impacts.
