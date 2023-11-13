@@ -25,7 +25,7 @@ content:
 #       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: skulinsk@purdue.edu
+  email: smkulinski@gmail.com
 #   phone: 888 888 88 88
   contact_links:
   - icon: github

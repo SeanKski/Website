@@ -14,14 +14,14 @@ organizations:
   - url: "https://engineering.purdue.edu/ECE"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies a gaining better understandings of data from both a human perspective (via interpretable data representations) and a machine intelligence perspective (via learning generalizable representations). Namely, this means the problems I tend to work with are domain adaptation, generalization, and shift understanding; knowledge representation; CausalML; and all that comes with it.
+bio: My research interest lies at making more reliable generative AI models. Namely, this means the problems I tend to work with are robust ML, ML failure mitigation, and generalization, and all that comes with it.
 
 # Interests to show in About widget
 interests:
-  - Domain Generalization
-  - Conceptual Data Representations
-  - Generative Modeling
-  - Machine Intelligence
+  - Generative AI
+  - Trustworthy AI
+  - Human-AI interactions
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
@@ -66,14 +66,18 @@ highlight_name: true
 ---
 
 Hi :wave:! I am a Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the Probabilistic and Understandable Machine Learning Lab led by [Dr. David Inouye](https://www.davidinouye.com).
-My main research interest lies at gaining **robust <u>understandings</u> of data**.
-I am working on advancing this from a machine intelligence perspective, via **building models which better learn generalizable information** (such as our work on [learning latent causal models for domain-translation generative models](https://www.seankulinski.com/publication/towards-characterizing-domain-counterfactuals-for-invertible-latent-causal-models/) or our current work on predicting model generalization performance), as well as, from both a human perspective, via **providing users with more interpretable representations of data** (such as our method for [explaining differences between distributions](https://www.seankulinski.com/publication/towards-explaining-image-based-shifts/) or our paper on [localizing distribution shifts to problematic features](https://www.seankulinski.com/publication/feature-shift-detection/)).
-I also co-run a tutorial-style [Machine Learning reading group at Purdue](https://engineering.purdue.edu/ChanGroup/MLreading.html) which covers various ML topics such as Multi-Modal Learning and CausalML.
+My main research interest is to to enable the development of **robust** and **trustworthy** generative AI models (e.g., LLMs) for safe deployment in an increasingly AI-driven world.
+I am working on advancing from two main perspectives:
+ 1) Devloping novel methods to use train/finetune ML models on diverse data for better generalization performance to new settings.
+ 2) Building tools to monitor and understand the dynamics of a deployment environment–allowing for the uncovering of possible failure modes such as shortcuts/unfair biases.
+
+My works have been published in top-tier conferences such as NeurIPS, ICML, and CVPR, are being patented by Microsoft, and are being integrated into Microsoft Azure’s ML monitoring toolbox as well as Microsoft Office’s Query Understanding pipeline
 
 I have worked [various ML research roles](#experience) for both production-level and research-level industry impacts.
 This includes working with [Bhavya Kailkhura](https://scholar.google.com/citations?user=SQpJmOgAAAAJ&hl=en) from Lawrence Livermore National Lab, [Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en) from the Army Research Lab, and [Ankur Mallick](https://scholar.google.co.in/citations?user=6SYGK8cAAAAJ&hl=en) and [Kevin Hsieh](https://scholar.google.com/citations?user=e7rXLKAAAAAJ&hl=en) from Microsoft Research.
 
+<!-- I also co-run a tutorial-style [Machine Learning reading group at Purdue](https://engineering.purdue.edu/ChanGroup/MLreading.html) which covers various ML topics such as Multi-Modal Learning and Large Language Modeling.
 In addition to my research, some things I enjoy (in no particular order) are:
  hiking/backpacking 🥾, mountain biking 🚵, spending time with friends and family 🗣️, having spirited debates on frivolous topics 💭, and figuring out how things work 🛠️.
-If you are interested in any of my work or just want to have a chat, please reach out via my email at the bottom of this page! 
+If you are interested in any of my work or just want to have a chat, please reach out via my email at the bottom of this page!  -->
 
