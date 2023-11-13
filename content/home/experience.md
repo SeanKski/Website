@@ -35,7 +35,7 @@ experience:
       - Constructed a new large-scale CV dataset based on human matches of StarCraft II that exhibits complex and shifting multi-agent behaviors yielding 1.8 million images with multiple data representations such as ones that can be used as a drop-in replacement for CIFAR10 and MNIST. [[CVPR Publication](https://openaccess.thecvf.com/content/CVPR2023/papers/Kulinski_StarCraftImage_A_Dataset_for_Prototyping_Spatial_Reasoning_Methods_for_Multi-Agent_CVPR_2023_paper.pdf)] [[code](https://starcraftdata.davidinouye.com/)]
       - Created a lightweight machine learning algorithm that uses deep density models to detect shifts in distributions as well as determine which feature(s) are causing the shift, allowing for online monitoring with little additional overhead. [[NeurIPS publication](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf)] [[code](https://github.com/inouye-lab/feature-shift)].
 
-  - title: Researcher Intern (Deep Learning; ML Ops), 
+  - title: Researcher Intern (Deep Learning; ML Ops)
     company: Microsoft Research
     company_url: 'https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?'
     company_logo: microsoft

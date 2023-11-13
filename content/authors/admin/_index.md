@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi :wave:! I am a Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the Probabilistic and Understandable Machine Learning Lab led by [Dr. David Inouye](https://www.davidinouye.com).
+Hi :wave:! I am a Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the [Probabilistic and Understandable Machine Learning Lab]((https://www.davidinouye.com)) led by Dr. David Inouye.
 My main research interest is to to enable the development of **robust** and **trustworthy** generative AI models (e.g., LLMs) for safe deployment in an increasingly AI-driven world.
 I am working on advancing from two main perspectives:
  1) Devloping novel methods to use train/finetune ML models on diverse data for better generalization performance to new settings.
