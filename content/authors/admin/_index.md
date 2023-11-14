@@ -66,15 +66,12 @@ highlight_name: true
 ---
 
 Hi :wave:! I am a Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the [Probabilistic and Understandable Machine Learning Lab]((https://www.davidinouye.com)) led by Dr. David Inouye.
-My main research interest is to to enable the development of **robust** and **trustworthy** generative AI models (e.g., LLMs) for safe deployment in an increasingly AI-driven world.
-I am working on advancing from two main perspectives:
- 1) Devloping novel methods to use train/finetune ML models on diverse data for better generalization performance to new settings.
- 2) Building tools to monitor and understand the dynamics of a deployment environment–allowing for the uncovering of possible failure modes such as shortcuts/unfair biases.
+My main research interest is to **enable the development of robust and trustworthy generative AI models (e.g., LLMs) for safe deployment in an increasingly AI-driven world**.
+I am working on advancing from the perspectives of developing novel methods to train/finetune ML models for better generalization performance to new settings and via building ML tools to monitor and understand the dynamics of a deployment environment.
+My works have been published in top-tier conferences such as NeurIPS, ICML, and CVPR, are being patented by Microsoft, and are being integrated into Microsoft Azure’s ML monitoring toolbox as well as Microsoft Office’s Query Understanding pipeline.
 
-My works have been published in top-tier conferences such as NeurIPS, ICML, and CVPR, are being patented by Microsoft, and are being integrated into Microsoft Azure’s ML monitoring toolbox as well as Microsoft Office’s Query Understanding pipeline
-
-I have worked [various ML research roles](#experience) for both production-level and research-level industry impacts.
-This includes working with [Bhavya Kailkhura](https://scholar.google.com/citations?user=SQpJmOgAAAAJ&hl=en) from Lawrence Livermore National Lab, [Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en) from the Army Research Lab, and [Ankur Mallick](https://scholar.google.co.in/citations?user=6SYGK8cAAAAJ&hl=en) and [Kevin Hsieh](https://scholar.google.com/citations?user=e7rXLKAAAAAJ&hl=en) from Microsoft Research.
+I have worked in [various ML research roles](#experience) for both production-level and research-level industry impacts.
+This includes working with [Ankur Mallick](https://www.microsoft.com/en-us/research/people/ankurmallick/) and [Kevin Hsieh](https://www.microsoft.com/en-us/research/people/kevhsieh/) from Microsoft Research, [Nicholas Waytowich](https://nicholaswaytowich.com/) from the Army Research Lab, and [Bhavya Kailkhura](https://people.llnl.gov/kailkhura1) from Lawrence Livermore National Lab.
 
 <!-- I also co-run a tutorial-style [Machine Learning reading group at Purdue](https://engineering.purdue.edu/ChanGroup/MLreading.html) which covers various ML topics such as Multi-Modal Learning and Large Language Modeling.
 In addition to my research, some things I enjoy (in no particular order) are:
