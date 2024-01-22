@@ -2,13 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Towards Characterizing Domain Counterfactuals For Invertible Latent Causal Models"
-authors: 
-  - admin
-  - Zeyu Zhou
-  - Ruqi Bai
-  - Murat Kocaoglu
-  - David I. Inouye
-date: '2023-07-01T17:47:22-04:00'
+authors: ['Zeyu Zhou*', 'Ruqi Bai*', 'admin*', 'Murat Kocaoglu', 'David I. Inouye']
+date: '2024-05-01T17:47:22-04:00'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,13 +13,21 @@ publishDate: '2022-10-10T17:47:22-04:00'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv"
-publication_short: "*arXiv*"
+publication: "International Conference on Learning Representations"
+publication_short: "*ICLR*"
 
-abstract: "Learning latent causal models from data has many important applications such as robustness, model extrapolation, and counterfactuals. Most prior theoretic work has focused on full causal discovery (i.e., recovering the true latent variables) but requires strong assumptions such as linearity or fails to have any analysis of the equivalence class of solutions (e.g., IRM). Instead of full causal discovery, we focus on a specific type of causal query called the domain counterfactual, which hypothesizes what a sample would have looked like if it had been generated in a different domain (or environment). Concretely, we assume domain-specific invertible latent structural causal models and a shared invertible observation function, both of which are less restrictive assumptions than prior theoretic works. Under these assumptions, we define domain counterfactually equivalent models and prove that any model can be transformed into an equivalent model via two invertible functions. This constructive property provides a tight characterization of the domain counterfactual equivalence classes. Building upon this result, we prove that every equivalence class contains a model where all intervened variables are at the end when topologically sorted by the causal DAG, i.e., all non-intervened variables have non-intervened ancestors. This surprising result suggests that an algorithm that only allows intervention in the last k latent variables may improve model estimation for counterfactuals. In experiments, we enforce the sparse intervention hypothesis via this theoretic result by constraining that the latent SCMs can only differ in the last few causal mechanisms and demonstrate the feasibility of this algorithm in simulated and image-based experiments."
+abstract: "Answering counterfactual queries has many important applications such as knowledge discovery and explainability, but is challenging when causal variables are unobserved and we only see a projection onto an observation space, for instance, image pixels.
+One approach is to recover the latent Structural Causal Model (SCM), but this typically needs unrealistic assumptions, such as linearity of the causal mechanisms.
+Another approach is to use naive ML approximations, such as generative models, to generate counterfactual samples; however, these lack guarantees of accuracy.
+In this work, we strive to strike a balance between practicality and theoretical guarantees by focusing on a specific type of causal query called *domain counterfactuals*, which hypothesizes what a sample would have looked like if it had been generated in a different domain (or environment).
+Concretely, by only assuming invertibility and access to observational data from different domains, we aim to improve domain counterfactual estimation both theoretically and practically.
+We define *domain counterfactually equivalent* models and prove necessary and sufficient properties for equivalent models that provide a tight characterization of the domain counterfactual equivalence classes.
+Building upon this result, we prove that every equivalence class contains a model where all intervened variables are at the end when topologically sorted by the causal DAG, i.e., all non-intervened variables have no intervened ancestors.
+This surprising result suggests that a model design that only allows intervention in the last $k$ latent variables may improve model estimation for counterfactuals.
+We then test this model design on extensive simulated and image-based experiments which show the sparse canonical model indeed improves counterfactual estimation over baseline non-sparse models."
 
 # Summary. An optional shortened abstract.
 summary: "We build generative models by learning latent causal models from data observed from different domains for the purpose of

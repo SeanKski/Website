@@ -19,7 +19,7 @@ bio: My research interest lies at making more reliable generative AI models. Nam
 # Interests to show in About widget
 interests:
   - Generative AI
-  - Trustworthy AI
+  - Data-Efficient Training/Finetuning
   - Human-AI interactions
   - Natural Language Processing
 
@@ -68,7 +68,7 @@ highlight_name: true
 Hi :wave:! I am a Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the [Probabilistic and Understandable Machine Learning Lab]((https://www.davidinouye.com)) led by Dr. David Inouye.
 My main research interest is to **enable the development of robust and trustworthy generative AI models (e.g., LLMs) for safe deployment in an increasingly AI-driven world**.
 I am working on advancing this from the perspectives of developing novel methods to train/finetune ML models for better generalization performance to new settings and via building ML tools to monitor and understand the dynamics of a deployment environment.
-My works have been published in top-tier conferences such as NeurIPS, ICML, and CVPR, are being patented by Microsoft, and are being integrated into Microsoft Azure’s ML monitoring toolbox as well as Microsoft Office’s Query Understanding pipeline.
+My works have been published in top-tier conferences such as NeurIPS, ICML, ICLR, and CVPR, are being patented by Microsoft, and are being integrated into Microsoft Azure’s ML monitoring toolbox as well as Microsoft Office’s Query Understanding pipeline.
 
 I have worked in [various ML research roles](#experience) for both production-level and research-level industry impacts.
 This includes working with [Ankur Mallick](https://www.microsoft.com/en-us/research/people/ankurmallick/) and [Kevin Hsieh](https://www.microsoft.com/en-us/research/people/kevhsieh/) from Microsoft Research, [Bhavya Kailkhura](https://people.llnl.gov/kailkhura1) from Lawrence Livermore National Lab, and [Nicholas Waytowich](https://nicholaswaytowich.com/) from the Army Research Lab.
