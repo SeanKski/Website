@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Towards Characterizing Domain Counterfactuals For Invertible Latent Causal Models"
-authors: ['Zeyu Zhou*', 'Ruqi Bai*', 'admin*', 'Murat Kocaoglu', 'David I. Inouye']
+authors: ['Sean Kulinski*', 'Zeyu Zhou*', 'Ruqi Bai*', 'Murat Kocaoglu', 'David I. Inouye']
 date: '2024-05-01T17:47:22-04:00'
 doi: ""
 
