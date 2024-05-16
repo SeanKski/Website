@@ -22,15 +22,27 @@ design:
   columns: '1'
   
 experience:
+
+  - title: Research Scientist (Deep Learning; Natural Language Processing)
+    company: Databricks Mosaic Research
+    company_url: 'https://www.databricks.com/research/mosaic'
+    company_logo: databricks
+    location: San Francisco, CA
+    date_start: '2024-03-01'
+    date_end: ''
+    description: |2-
+      - I work on novel data-methods which are being applied to robustly finetuning, evaluating, and continued pretraining of LLMs.
+      - Unfortunately, due to the incredibly competitive landscape of this space, I am unable to publicly say more at this time.
+
   - title: Ph.D. Research (Machine Learning; Natural Language Processing; Computer Vision)
     company: Purdue University, under advisory of Dr. David Inouye
     company_url: 'https://www.davidinouye.com'
     company_logo: purdue
     location: West Lafayette, Indiana
     date_start: '2019-08-17'
-    date_end: ''
+    date_end: '2023-12-16'
     description: |2-
-      - • Creating a causally-grounded generative AI model that generates counterfactual examples that answer the question "What would this look like if X had happened instead of Y" (e.g., what would my chest x-ray look like if I had gone to Hospital B instead of Hospital A) [[Preprint Publication](https://arxiv.org/abs/2306.11281)]
+      - • Created a causally-grounded generative AI model that generates counterfactual examples that answer the question "What would this look like if X had happened instead of Y" (e.g., what would my chest x-ray look like if I had gone to Hospital B instead of Hospital A) [[ICLR Publication](https://arxiv.org/abs/2306.11281)]
       - Derived methods for interpretable optimal transport for the purposes of explaining distribution shifts to a human operator which can be used for system monitoring or knowledge discovery. [[ICML Publication](https://arxiv.org/abs/2210.10275)] [[code](https://github.com/inouye-lab/explaining-distribution-shifts)].
       - Constructed a new large-scale CV dataset based on human matches of StarCraft II that exhibits complex and shifting multi-agent behaviors yielding 1.8 million images with multiple data representations such as ones that can be used as a drop-in replacement for CIFAR10 and MNIST. [[CVPR Publication](https://openaccess.thecvf.com/content/CVPR2023/papers/Kulinski_StarCraftImage_A_Dataset_for_Prototyping_Spatial_Reasoning_Methods_for_Multi-Agent_CVPR_2023_paper.pdf)] [[code](https://starcraftdata.davidinouye.com/)]
       - Created a lightweight machine learning algorithm that uses deep density models to detect shifts in distributions as well as determine which feature(s) are causing the shift, allowing for online monitoring with little additional overhead. [[NeurIPS publication](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf)] [[code](https://github.com/inouye-lab/feature-shift)].

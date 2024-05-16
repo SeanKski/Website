@@ -6,15 +6,15 @@ title: Sean Kulinski
 superuser: true
 
 # Role/position/tagline
-role: Ph.d. Student Studying Artificial Intelligence
+role: GenAI Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Purdue University
-  - url: "https://engineering.purdue.edu/ECE"
+  - name: Databricks Mosaic Research
+  - url: "https://www.databricks.com/research/mosaic"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies at making more reliable generative AI models. Namely, this means the problems I tend to work with are robust ML, ML failure mitigation, and generalization, and all that comes with it.
+bio: My research interest lies at making more reliable generative AI models. Namely, this means the problems I tend to work with are robust ML, capabilities focused pretraining/finetuning, model failure analysis, and all that comes with it.
 
 # Interests to show in About widget
 interests:
@@ -65,13 +65,14 @@ email: ''
 highlight_name: true
 ---
 
-Hi :wave:! I am a Ph.D. student at [Purdue University](https://engineering.purdue.edu/ECE) in the [Probabilistic and Understandable Machine Learning Lab]((https://www.davidinouye.com)) led by Dr. David Inouye.
-My main research interest is to **enable the development of robust and trustworthy generative AI models (e.g., LLMs) for safe deployment in an increasingly AI-driven world**.
-I am working on advancing this from the perspectives of developing novel methods to train/finetune ML models for better generalization performance to new settings and via building ML tools to monitor and understand the dynamics of a deployment environment.
-My works have been published in top-tier conferences such as NeurIPS, ICML, ICLR, and CVPR, are being patented by Microsoft, and are being integrated into Microsoft Azure’s ML monitoring toolbox as well as Microsoft Office’s Query Understanding pipeline.
-
-I have worked in [various ML research roles](#experience) for both production-level and research-level industry impacts.
+Hi :wave:! I am a Research Scientist at Databricks Mosaic Research, where I study clever methods of using data to train/evaluate foundation models (e.g., LLMs) more efficiently.
+<!-- At a high level, my main research interest is to **enable the development of robust and trustworthy generative AI models (e.g., LLMs) for safe deployment in an increasingly AI-driven world**. -->
+Previously, I received my Ph.D. from Purdue University in the [Probabilistic and Understandable Machine Learning Lab]((https://www.davidinouye.com)), where I had the pleasure of working with [Dr. David Inouye](https://www.davidinouye.com) and [Dr. Murat Kocaoglu](https://www.muratkocaoglu.com/).
+I also have worked in [various ML research roles](#experience) for both production-level and research-level industry impacts.
 This includes working with [Ankur Mallick](https://www.microsoft.com/en-us/research/people/ankurmallick/) and [Kevin Hsieh](https://www.microsoft.com/en-us/research/people/kevhsieh/) from Microsoft Research, [Bhavya Kailkhura](https://people.llnl.gov/kailkhura1) from Lawrence Livermore National Lab, and [Nicholas Waytowich](https://nicholaswaytowich.com/) from the Army Research Lab.
+
+My works have been published in top-tier conferences such as NeurIPS, ICML, ICLR, and CVPR, are being patented by Microsoft, and have been integrated into Microsoft Azure’s ML monitoring toolbox as well as Microsoft Office’s Query Understanding pipeline.
+
 
 <!-- I also co-run a tutorial-style [Machine Learning reading group at Purdue](https://engineering.purdue.edu/ChanGroup/MLreading.html) which covers various ML topics such as Multi-Modal Learning and Large Language Modeling.
 In addition to my research, some things I enjoy (in no particular order) are:
