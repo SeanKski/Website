@@ -33,10 +33,10 @@ content:
     link: https://github.com/SeanKski
     name: GitHub
 
-  - icon: linkedin
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/seankulinski/
-    name: LinkedIn
+    link: https://twitter.com/seankski
+    name: Twitter (X)
 
   address:
     street: San Fransisco
